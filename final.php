@@ -6,7 +6,7 @@
  * Time: 5:36 PM
  */
 
-mysql_connect("localhost","root","");
+mysql_connect("localhost","root","user");
 mysql_select_db("minipro");
 
 ?>
